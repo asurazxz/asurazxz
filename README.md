@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Denz — aspiring software developer in Singapore. Exploring software engineering by building useful, dependable products." src="./assets/header-light.svg" width="100%">
+  <img alt="denz — Information Systems Sophomore at Singapore Management University. Aspiring software developer." src="./assets/header-light.svg" width="100%">
 </picture>
 
 ## Building to learn

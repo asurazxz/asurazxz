@@ -1,14 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
-  <title id="title">Denz — aspiring software developer in Singapore</title>
-  <desc id="description">A clean blue editorial banner introducing Denz and an interest in building useful, dependable software.</desc>
+  <title id="title">denz — Information Systems Sophomore at Singapore Management University — Aspiring software developer</title>
+  <desc id="description">A clean blue editorial banner introducing denz, an Information Systems sophomore at Singapore Management University and aspiring software developer.</desc>
   <rect width="1200" height="360" rx="28" fill="#0B1220"/>
   <path d="M0 28A28 28 0 0 1 28 0h1144a28 28 0 0 1 28 28v304a28 28 0 0 1-28 28H28A28 28 0 0 1 0 332V28Z" fill="none" stroke="#22314D"/>
   <circle cx="1080" cy="74" r="136" fill="#101F3D"/>
   <circle cx="1080" cy="74" r="78" fill="#152B55"/>
   <path d="M928 282h188" stroke="#60A5FA" stroke-width="4" stroke-linecap="round"/>
   <path d="M1068 266l48 16-48 16" fill="none" stroke="#60A5FA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="82" y="82" fill="#60A5FA" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" letter-spacing="4">HELLO, I’M</text>
-  <text x="78" y="190" fill="#F2F6FC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="104" font-weight="750" letter-spacing="-5">Denz.</text>
-  <text x="82" y="240" fill="#C7D2E3" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="600">Aspiring software developer · Singapore</text>
-  <text x="82" y="294" fill="#91A1BA" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="19">Exploring software engineering by building useful, dependable products.</text>
+  <text x="78" y="150" fill="#F2F6FC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="104" font-weight="750" letter-spacing="-5">denz</text>
+  <text x="82" y="216" fill="#C7D2E3" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="600">Information Systems Sophomore at Singapore Management University</text>
+  <text x="82" y="270" fill="#60A5FA" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="700" letter-spacing="1">Aspiring software developer</text>
 </svg>
