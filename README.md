@@ -6,13 +6,9 @@
 
 ## Building to learn
 
-I’m Denz, an aspiring software developer in Singapore. I’m exploring software engineering broadly by turning ideas into practical products, learning how the interface, application logic, and data layer fit together along the way.
+Hiyaa I'm Denzel! I am an aspiring software developer and I love indulging myselfs in SWE and AI projects.
 
-Right now, I’m interested in:
-
-- building thoughtful full-stack web experiences;
-- making product decisions around real user needs; and
-- understanding the reliable systems behind polished interfaces.
+Outside of SWE, I have a interest in cybersecurity, particularly red-teaming. I have hosted and participated in CTFs, and had the opportunity to represent my school's [WhiteHat Society](https://github.com/Whitehat-Society) at Singapore's DEF CON 2026
 
 ## Selected work
 
@@ -38,13 +34,14 @@ Right now, I’m interested in:
 | Area | Technologies |
 | --- | --- |
 | Languages | TypeScript, JavaScript, Python, SQL, HTML & CSS |
-| Frontend | React, Vite, Tailwind CSS, EJS |
+| Frontend | Vue, React, Vite, Tailwind CSS, EJS |
 | Backend | Node.js, Express, FastAPI |
 | Data | PostgreSQL, MongoDB, Supabase |
+| Others | Docker, Git, Linux
 
 ## Beyond code
 
-Photography is a creative side hobby of mine—I’m also experimenting with how to present that work through a [small editorial portfolio](https://github.com/asurazxz/photography-portfolio).
+Photography is a creative side hobby of mine. I’m also experimenting with how to present that work through a [small editorial portfolio](https://github.com/asurazxz/photography-portfolio).
 
 ---
 
