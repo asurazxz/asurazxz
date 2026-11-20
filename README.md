@@ -40,16 +40,16 @@ I'm also interested in cybersecurity, particularly red-teaming. I've hosted and 
 
 Outside of these technical stuff, you'll often find me with a camera, shooting portraits, cosplay, and events. Do HMU on my socials! My [photography portfolio](https://github.com/asurazxz/photography-portfolio) is in the works XD
 
-ps: I LOVE cats (hence the cat pixelart in my banner)
+ps: I LOVE cats
 
 ## Selected work
 
 | Project | Overview |
 | --- | --- |
 | [Autonomous 2026 Hackathon - Airbus Kalimantan SAF Network Planner](https://github.com/asurazxz/Larpers) | Team entry for Airbus Challenge #3 at Autonomous SG 2026: optimises Kalimantan's biomass-to-airport SAF network, with independent validation and scenario exploration.<br>**Tech:** Python, PuLP, HiGHS, Next.js · [Demo — stored scenarios](https://larpers-steel.vercel.app/) |
-| [Agents Orchestrator](https://github.com/asurazxz/agents-ochestrator) | Planned, self-hostable project memory for coding agents across devices, with human-reviewed context and handoffs. Documentation and scaffolding only.<br>**Tech:** Markdown; application stack undecided. |
+| [Open Gallery](https://github.com/asurazxz/android-image-widget) | An offline Android home-screen widget that shuffles photos from your gallery or chosen albums, manually or on a schedule, with Fill or Fit display. Released as v1.0.1 under the MIT license; it doesn't request internet access.<br>**Tech:** Kotlin, Jetpack Glance, Room, WorkManager, Material 3 · [Download APK](https://github.com/asurazxz/android-image-widget/releases/latest) |
 | [OpenJio](https://github.com/asurazxz/OpenJio) | A desktop-first outing planner for Singapore groups to coordinate availability, vote on stops and share an itinerary. Its `main` branch supports self-hosting with real accounts; a separate `demo` branch provides seeded sample outings.<br>**Tech:** Vue, Vite, Bootstrap, Node.js, Express, Supabase, PostgreSQL, Docker Compose |
-| [Photography Portfolio](https://github.com/asurazxz/photography-portfolio) | My creative and technical interests meet in an editorial portfolio with curated galleries and category browsing. Currently uses placeholder imagery.<br>**Tech:** Next.js, React, TypeScript, Tailwind CSS |
+| [Photography Portfolio](https://github.com/asurazxz/photography-portfolio) | My creative and technical interests meet in an editorial portfolio with curated galleries and category browsing. Still in the works!<br>**Tech:** Next.js, React, TypeScript, Tailwind CSS |
 
 ---
 [My public repos](https://github.com/asurazxz?tab=repositories).
